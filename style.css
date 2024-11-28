@@ -1,0 +1,27 @@
+.all {
+    width:auto;
+}
+
+#stopwatch {
+    font-size:60px;
+}
+
+#time {
+    font-size:80px;
+    position: relative;  
+    left:40px;
+}
+
+#button-all {
+    font-size:200px;
+    height:300px;
+    width:800px;
+    position: relative;
+    top:-50px;
+}
+
+.buttononly {
+    font-size:40px;
+    height:150px;
+    padding:0 20px;
+}
